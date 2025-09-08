@@ -44,6 +44,7 @@
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 
 #### DevOps & Testing  
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
@@ -77,6 +78,11 @@
   <img src="https://streak-stats.demolab.com?user=conradpb&theme=radical" alt="streak" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conradpb&layout=compact&theme=radical" alt="top langs" height="180"/>
 </p>
+
+---
+
+## 🌍 Portfolio  
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=vercel)](https://portfolio-ten-woad-k56z0i2k6x.vercel.app)
 
 ---
 
