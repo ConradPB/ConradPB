@@ -3,6 +3,10 @@
 <h1 align="center">👋 Hi, I'm Conrad Bugingo</h1>
 <h3 align="center">💻 Self-taught Full-Stack Developer | 🌍 Uganda | 🚀 Building AI & Fintech Solutions</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=conradpb&style=for-the-badge&color=blueviolet" alt="profile views"/>
+</p>
+
 ---
 
 ### 🌟 About Me  
@@ -37,6 +41,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 
 #### DevOps & Testing  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
@@ -61,15 +66,23 @@
    🔗 [microloan-tracker.vercel.app](https://microloan-tracker.vercel.app)  
 
 - 🌍 **EESCL Uganda (2025)** – Community-focused site  
-   *WordPress + REST APIs, optimized for <2s load*
-  🔗 https://eescluganda.wuaze.com/?i=1
+   *WordPress + REST APIs, optimized for <2s load*  
+   🔗 https://eescluganda.wuaze.com/?i=1
   
 ---
 
 ### 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=conradpb&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=conradpb&theme=radical" alt="streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=conradpb&theme=radical" alt="streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conradpb&layout=compact&theme=radical" alt="top langs" height="180"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=conradpb&theme=radical&no-frame=false&no-bg=true&margin-w=15" alt="trophies"/>
 </p>
 
 ---
@@ -86,20 +99,4 @@
 
 ---
 
-⭐️ From [conradbugingo](https://github.com/conradbugingo)
-
-
-<!--
-**ConradPB/ConradPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [conradbugingo](https://github.com/conradpb)
