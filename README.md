@@ -1,6 +1,6 @@
 <!-- Conrad Bugingo | GitHub Profile README -->
 
-<h1 align="center">👋 Hi, I'm Conrad Bugingo</h1>
+<h1 align="center">👋 Hi, I'm Conrad.</h1>
 <h3 align="center">💻 Self-taught Full-Stack Developer | 🌍 Uganda | 🚀 Building AI & Fintech Solutions</h3>
 
 <p align="center">
