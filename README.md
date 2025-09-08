@@ -62,7 +62,9 @@
 
 - 🌍 **EESCL Uganda (2025)** – Community-focused site  
    *WordPress + REST APIs, optimized for <2s load*
+  
   🔗 (https://eescluganda.wuaze.com/?i=1)
+  
 ---
 
 ### 📈 GitHub Stats  
