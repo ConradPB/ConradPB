@@ -55,7 +55,7 @@
 
 ### 🏗️ Highlight Projects  
 
-- 🛒 **Shopshere (2024–Present)** – AI-powered fintech e-commerce platform  
+- 🛒 **Shopshere (Present)** – AI-powered fintech e-commerce platform  
    *React, TypeScript, Fastify, PostgreSQL, Redis, Docker, GitHub Actions*  
 
 - 📊 **Crypto Trends Visualization Tool (2024–2025)**  
