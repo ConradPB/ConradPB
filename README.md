@@ -15,7 +15,6 @@ I am a Software Engineer with a **Master’s in International Relations** and a 
 
 - 📱 **Mobile:** Expert in **Kotlin & Jetpack Compose** (Offline-first architecture).
 - 🌐 **Web:** Specialized in **Next.js, TypeScript, and Tailwind CSS**.
-- 🔐 **Security:** Huawei Certified in **Cybersecurity & AI**.
 - 📈 **Domain:** Expertise in **Fintech, Commodity Markets, and AgTech**.
 
 ---
