@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Conrad Bugingo
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Android+Systems+Engineer;Full-Stack+Developer;Economics+%26+Fintech+Specialist;Huawei+Certified+Security+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Android+Systems+Engineer;Full-Stack+Developer;Economics+%26+Fintech+Specialist" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/conrad-mbaziira-0520531a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
