@@ -28,8 +28,6 @@ I operate at the intersection of **Software Systems** and **Global Economics**. 
 
 - 📱 **Mobile Architecture:** Specialist in **Kotlin & Jetpack Compose** (Offline-first / Real-time Sync).
 - 🌐 **Web Ecosystems:** Advanced **Next.js, TypeScript, and Tailwind CSS**.
-- 🛡️ **Cyber-Resilience:** Huawei Certified in **Security & AI**.
-
 ---
 
 ### 🏗️ Flagship Ecosystem: MilkWize 🥛
