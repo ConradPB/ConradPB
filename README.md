@@ -1,122 +1,101 @@
 <!-- Conrad Bugingo | GitHub Profile README -->
 
-<h1 align="center">👋 Hi, I'm Conrad.</h1>
-<h3 align="center">💻 Self-taught Full-Stack Developer | 🌍 Uganda | 🚀 Building AI & Fintech Solutions</h3>
+<h1 align="center">Hi, I'm Conrad Bugingo 👋</h1>
+<p align="center">
+  <strong>Android Systems Engineer | Full-Stack Developer | Economics & Fintech Specialist</strong>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=conradpb&style=for-the-badge&color=blueviolet" alt="profile views"/>
+  <a href="https://www.linkedin.com/in/conrad-mbaziira-0520531a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:cpbmbaz57@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://portfolio-ten-woad-k56z0i2k6x.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=conradpb&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
 
 ---
 
-### 🌟 About Me  
-- 🛠️ Full-stack developer specializing in **React, Next.js, Node.js, Django, and PostgreSQL**  
-- 🤖 Exploring **AI-driven applications** (recommendations, chatbots, predictive analytics)  
-- 🏗️ Experienced in **building fintech, analytics, and community platforms** end-to-end  
-- 🌍 Passionate about scalable tech for **African businesses & global startups**  
-- 🎯 Goal: Leverage MERN + AI to create **profitable, real-world applications**  
+### 🌟 The "Bridge" Between Code & Economics
+I am a Software Engineer with a **Master’s in International Relations** and a deep background in **Economics**. I don't just build apps; I build high-performance financial and agricultural ecosystems that solve real-world market challenges.
+
+- 📱 **Mobile:** Expert in **Kotlin & Jetpack Compose** (Offline-first architecture).
+- 🌐 **Web:** Specialized in **Next.js, TypeScript, and Tailwind CSS**.
+- 🔐 **Security:** Huawei Certified in **Cybersecurity & AI**.
+- 📈 **Domain:** Expertise in **Fintech, Commodity Markets, and AgTech**.
 
 ---
 
-### 🚀 Tech Stack  
+### 🛠️ Technical Arsenal
 
-#### Frontend  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+<details open>
+<summary><b>Native Mobile & Desktop</b></summary>
+<br />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite/Room-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</details>
 
-#### Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![Fastify](https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+<details>
+<summary><b>Full-Stack Web</b></summary>
+<br />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</details>
 
-#### Databases  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
-
-#### DevOps & Testing  
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)  
+<details>
+<summary><b>Backend, DevOps & Security</b></summary>
+<br />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Huawei_Cybersecurity-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</details>
 
 ---
 
-### 🏗️ Highlight Projects  
+### 🏗️ Highlight Projects
 
-- 🛒 **Shopshere (Present)** – AI-powered fintech e-commerce platform  
-   *React, TypeScript, Fastify, PostgreSQL, Redis, Docker, GitHub Actions*  
+#### 🥛 [MilkWize](https://github.com/conradpb) (Flagship Android App)
+**The Problem:** Rural farmers lack connectivity and climate context for milk production.  
+**The Solution:** An **offline-first Android app** (Kotlin/Compose) that tracks yields and correlates them with real-time **Heat Stress (THI)** data via Weather APIs.
+- **Tech:** Kotlin, Coroutines, Room, Supabase, Retrofit, Android FileProvider.
+- **Impact:** High-reliability data sync for low-connectivity environments.
 
-- 📊 **Crypto Trends Visualization Tool (2024–2025)**  
-   *React, TypeScript, Express, MongoDB → Real-time financial insights*  
-   🔗 [crypto-trends-kohl.vercel.app](https://crypto-trends-kohl.vercel.app)  
+#### 🛒 [Shopshere](https://github.com/conradpb)
+AI-powered fintech e-commerce engine focused on predictive analytics and localized payment gateways.
+- **Tech:** React, Fastify, PostgreSQL, Redis, Docker.
 
-- 💰 **Microloan Tracker (2025)**  
-   *Django + Supabase (Postgres) → Loan analytics dashboard*  
-   🔗 [microloan-tracker.vercel.app](https://microloan-tracker.vercel.app)  
+#### 📊 [Crypto Trends Visualization](https://crypto-trends-kohl.vercel.app)
+Real-time financial dashboard for tracking cryptocurrency volatility and market movement.
+- **Tech:** Next.js, TypeScript, WebSockets, MongoDB.
 
-- 🌍 **EESCL Uganda (2025)** – Community-focused site  
-   *WordPress + REST APIs, optimized for <2s load*  
-   🔗 https://eescluganda.wuaze.com/?i=1
-  
 ---
 
-### 📈 GitHub Stats  
+### 📈 Metrics & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=conradpb&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=conradpb&theme=radical" alt="streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conradpb&layout=compact&theme=radical" alt="top langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=conradpb&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conradpb&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="top langs" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=conradpb&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="trophies"/>
 </p>
 
 ---
 
-## 🌍 Portfolio  
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=vercel)](https://portfolio-ten-woad-k56z0i2k6x.vercel.app)
-
----
-
-### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=conradpb&theme=radical&no-frame=false&no-bg=true&margin-w=15" alt="trophies"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" />
 </p>
 
----
-
-## 🌐 Connect with Me  
-
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/conrad-mbaziira-0520531a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:cpbmbaz57@gmail.com">
-    <img src="https://img.shields.io/badge/Email-cpbmbaz57%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <!-- Portfolio -->
-  <a href="https://portfolio-ten-woad-k56z0i2k6x.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
-  <!-- GitHub Profile -->
-  <a href="https://github.com/conradpb" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  ⭐️ From <a href="https://github.com/conradpb">Conrad Bugingo</a>
 </p>
-
----
-
-⭐️ From [conradbugingo](https://github.com/conradpb)
